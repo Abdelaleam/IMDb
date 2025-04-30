@@ -124,5 +124,17 @@ namespace Sw_project
 
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Browse_by_Genre b = new Browse_by_Genre();
+            this.Hide();
+            b.FormClosed += B_cloased;
+            b.Show();
+        }
+        private void B_cloased(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
     }
 }

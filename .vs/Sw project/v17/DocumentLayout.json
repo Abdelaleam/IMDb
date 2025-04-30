@@ -3,7 +3,47 @@
   "WorkspaceRootPath": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\movies\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\movies\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|d:\\abdelaleam\\courses\\new folder\\sw\\sw project\\sw project\\sw project\\browse by genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\browse by genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|d:\\abdelaleam\\courses\\new folder\\sw\\sw project\\sw project\\sw project\\browse by genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\browse by genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|d:\\abdelaleam\\courses\\new folder\\sw\\sw project\\sw project\\sw project\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\moviedetailes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\movie_reviewes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\movie_reviewes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\moviedetailes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,20 +67,8 @@
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\managemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|d:\\abdelaleam\\courses\\new folder\\sw\\sw project\\sw project\\sw project\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\watch_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\report_review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,10 +123,6 @@
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\managereviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -121,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\sw project\\movies\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67785CA2-70BF-4194-95CA-3DD5EFCF6571}|Sw project\\Sw project.csproj|solutionrelative:sw project\\movies\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,32 +150,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieDetailes.cs [Design]",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs",
-              "RelativeDocumentMoniker": "Sw project\\MovieDetailes.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs [Design]",
-              "RelativeToolTip": "Sw project\\MovieDetailes.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "MAIN.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs",
+              "RelativeDocumentMoniker": "Sw project\\MAIN.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs",
+              "RelativeToolTip": "Sw project\\MAIN.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswIkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:48:14.96Z",
+              "WhenOpened": "2025-04-30T13:59:54.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Browse by Genre.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Browse by Genre.cs",
+              "RelativeDocumentMoniker": "Sw project\\Browse by Genre.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Browse by Genre.cs",
+              "RelativeToolTip": "Sw project\\Browse by Genre.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:56:53.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MAIN.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs",
+              "RelativeDocumentMoniker": "Sw project\\MAIN.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs [Design]",
+              "RelativeToolTip": "Sw project\\MAIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:59:53.529Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Browse by Genre.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Browse by Genre.cs",
+              "RelativeDocumentMoniker": "Sw project\\Browse by Genre.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Browse by Genre.cs [Design]",
+              "RelativeToolTip": "Sw project\\Browse by Genre.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:54:21.553Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MovieDetailes.cs",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs",
-              "RelativeDocumentMoniker": "Sw project\\MovieDetailes.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs",
-              "RelativeToolTip": "Sw project\\MovieDetailes.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:51:00.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
               "RelativeDocumentMoniker": "Sw project\\UserForm.cs",
@@ -179,7 +212,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
+              "RelativeDocumentMoniker": "Sw project\\UserForm.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
+              "RelativeToolTip": "Sw project\\UserForm.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:02:07.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
+              "RelativeDocumentMoniker": "Sw project\\Movies\\Movie.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
+              "RelativeToolTip": "Sw project\\Movies\\Movie.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv7QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:58:22.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Review.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs",
+              "RelativeDocumentMoniker": "Sw project\\Review.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs [Design]",
+              "RelativeToolTip": "Sw project\\Review.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:27:51.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Watch_list.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
+              "RelativeDocumentMoniker": "Sw project\\Watch_list.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs [Design]",
+              "RelativeToolTip": "Sw project\\Watch_list.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:30:51.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieDetailes.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs",
+              "RelativeDocumentMoniker": "Sw project\\MovieDetailes.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs",
+              "RelativeToolTip": "Sw project\\MovieDetailes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:51:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Watch_list.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
+              "RelativeDocumentMoniker": "Sw project\\Watch_list.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
+              "RelativeToolTip": "Sw project\\Watch_list.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:39:52.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieDetailes.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs",
+              "RelativeDocumentMoniker": "Sw project\\MovieDetailes.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MovieDetailes.cs [Design]",
+              "RelativeToolTip": "Sw project\\MovieDetailes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:48:14.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ManageMovies.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageMovies.cs",
               "RelativeDocumentMoniker": "Sw project\\ManageMovies.cs",
@@ -187,12 +306,11 @@
               "RelativeToolTip": "Sw project\\ManageMovies.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:00:06.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T14:00:06.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Rate.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Rate.cs",
               "RelativeDocumentMoniker": "Sw project\\Rate.cs",
@@ -200,12 +318,11 @@
               "RelativeToolTip": "Sw project\\Rate.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwDAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T10:58:06.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T10:58:06.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Users\\User.cs",
               "RelativeDocumentMoniker": "Sw project\\Users\\User.cs",
@@ -218,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Movie_Reviewes.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movie_Reviewes.cs",
               "RelativeDocumentMoniker": "Sw project\\Movie_Reviewes.cs",
@@ -226,50 +343,22 @@
               "RelativeToolTip": "Sw project\\Movie_Reviewes.cs",
               "ViewState": "AgIAABcAAAAAAAAAAIA/wBcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:28:32.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:28:32.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserForm.cs",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
-              "RelativeDocumentMoniker": "Sw project\\UserForm.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
-              "RelativeToolTip": "Sw project\\UserForm.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAASwFMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:02:07.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MAIN.cs",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs",
-              "RelativeDocumentMoniker": "Sw project\\MAIN.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs",
-              "RelativeToolTip": "Sw project\\MAIN.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:59:54.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ManageMovies.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageMovies.cs",
               "RelativeDocumentMoniker": "Sw project\\ManageMovies.cs",
               "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageMovies.cs [Design]",
               "RelativeToolTip": "Sw project\\ManageMovies.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:48:50.426Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-30T09:48:50.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Review.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs",
               "RelativeDocumentMoniker": "Sw project\\Review.cs",
@@ -277,11 +366,12 @@
               "RelativeToolTip": "Sw project\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:01:44.046Z"
+              "WhenOpened": "2025-04-30T14:01:44.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "signup.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\signup.cs",
               "RelativeDocumentMoniker": "Sw project\\signup.cs",
@@ -292,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "signup.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\signup.cs",
               "RelativeDocumentMoniker": "Sw project\\signup.cs",
@@ -304,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Report_Review.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Report_Review.cs",
               "RelativeDocumentMoniker": "Sw project\\Report_Review.cs",
@@ -316,30 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Watch_list.cs",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
-              "RelativeDocumentMoniker": "Sw project\\Watch_list.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
-              "RelativeToolTip": "Sw project\\Watch_list.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:39:52.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Watch_list.cs [Design]",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
-              "RelativeDocumentMoniker": "Sw project\\Watch_list.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs [Design]",
-              "RelativeToolTip": "Sw project\\Watch_list.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:30:51.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Report_Review.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Report_Review.cs",
               "RelativeDocumentMoniker": "Sw project\\Report_Review.cs",
@@ -350,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Rate.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Rate.cs",
               "RelativeDocumentMoniker": "Sw project\\Rate.cs",
@@ -361,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "signin.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\signin.cs",
               "RelativeDocumentMoniker": "Sw project\\signin.cs",
@@ -372,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "signin.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\signin.cs",
               "RelativeDocumentMoniker": "Sw project\\signin.cs",
@@ -384,30 +451,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Movie_Reviewes.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movie_Reviewes.cs",
               "RelativeDocumentMoniker": "Sw project\\Movie_Reviewes.cs",
               "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movie_Reviewes.cs [Design]",
               "RelativeToolTip": "Sw project\\Movie_Reviewes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:48:17.129Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-30T09:48:17.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Review.cs [Design]",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs",
-              "RelativeDocumentMoniker": "Sw project\\Review.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs [Design]",
-              "RelativeToolTip": "Sw project\\Review.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:27:51.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ManageUsers.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageUsers.cs",
               "RelativeDocumentMoniker": "Sw project\\ManageUsers.cs",
@@ -419,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "ManageUsers.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageUsers.cs",
               "RelativeDocumentMoniker": "Sw project\\ManageUsers.cs",
@@ -430,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "ManageReviews.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageReviews.cs",
               "RelativeDocumentMoniker": "Sw project\\ManageReviews.cs",
@@ -442,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "ManageReviews.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\ManageReviews.cs",
               "RelativeDocumentMoniker": "Sw project\\ManageReviews.cs",
@@ -453,19 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MAIN.cs [Design]",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs",
-              "RelativeDocumentMoniker": "Sw project\\MAIN.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.cs [Design]",
-              "RelativeToolTip": "Sw project\\MAIN.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:59:53.529Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "MAIN.Designer.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\MAIN.Designer.cs",
               "RelativeDocumentMoniker": "Sw project\\MAIN.Designer.cs",
@@ -478,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\AdminForm.cs",
               "RelativeDocumentMoniker": "Sw project\\AdminForm.cs",
@@ -490,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "AdminForm.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\AdminForm.cs",
               "RelativeDocumentMoniker": "Sw project\\AdminForm.cs",
@@ -498,18 +541,6 @@
               "RelativeToolTip": "Sw project\\AdminForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T13:59:36.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
-              "RelativeDocumentMoniker": "Sw project\\Movies\\Movie.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
-              "RelativeToolTip": "Sw project\\Movies\\Movie.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAADwv7EAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:58:22.873Z"
             }
           ]
         }

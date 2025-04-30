@@ -39,3 +39,4 @@ D:\Abdelaleam\Courses\New folder\SW\SW Project\Sw project\Sw project\obj\Debug\S
 D:\Abdelaleam\Courses\New folder\SW\SW Project\Sw project\Sw project\obj\Debug\Sw_project.Movie_Reviewes.resources
 D:\Abdelaleam\Courses\New folder\SW\SW Project\Sw project\Sw project\obj\Debug\Sw_project.Watch_list.resources
 D:\Abdelaleam\Courses\New folder\SW\SW Project\Sw project\Sw project\obj\Debug\Sw_project.Report_Review.resources
+D:\Abdelaleam\Courses\New folder\SW\SW Project\Sw project\Sw project\obj\Debug\Sw_project.Browse_by_Genre.resources

@@ -46,6 +46,7 @@
             this.dataGridView1.Size = new System.Drawing.Size(855, 357);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.AutoSizeColumnsModeChanged += new System.Windows.Forms.DataGridViewAutoSizeColumnsModeEventHandler(this.dataGridView1_AutoSizeColumnsModeChanged);
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // Save
             // 
