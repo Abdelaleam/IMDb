@@ -142,48 +142,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Watch_list.cs [Design]",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
-              "RelativeDocumentMoniker": "Sw project\\Watch_list.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs [Design]",
-              "RelativeToolTip": "Sw project\\Watch_list.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:30:51.122Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Review.cs [Design]",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs",
-              "RelativeDocumentMoniker": "Sw project\\Review.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs [Design]",
-              "RelativeToolTip": "Sw project\\Review.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:27:51.671Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
-              "RelativeDocumentMoniker": "Sw project\\Movies\\Movie.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
-              "RelativeToolTip": "Sw project\\Movies\\Movie.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAADwv7QAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T09:58:22.873Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -241,8 +204,8 @@
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
               "RelativeDocumentMoniker": "Sw project\\UserForm.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs [Design]*",
-              "RelativeToolTip": "Sw project\\UserForm.cs [Design]*",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs [Design]",
+              "RelativeToolTip": "Sw project\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T09:48:10.491Z",
               "EditorCaption": " [Design]"
@@ -253,12 +216,49 @@
               "Title": "UserForm.cs",
               "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
               "RelativeDocumentMoniker": "Sw project\\UserForm.cs",
-              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs*",
-              "RelativeToolTip": "Sw project\\UserForm.cs*",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\UserForm.cs",
+              "RelativeToolTip": "Sw project\\UserForm.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAYwH4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:02:07.746Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
+              "RelativeDocumentMoniker": "Sw project\\Movies\\Movie.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Movies\\Movie.cs",
+              "RelativeToolTip": "Sw project\\Movies\\Movie.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv7QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:58:22.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs",
+              "RelativeDocumentMoniker": "Sw project\\Review.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Review.cs [Design]",
+              "RelativeToolTip": "Sw project\\Review.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:27:51.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Watch_list.cs [Design]",
+              "DocumentMoniker": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs",
+              "RelativeDocumentMoniker": "Sw project\\Watch_list.cs",
+              "ToolTip": "D:\\Abdelaleam\\Courses\\New folder\\SW\\SW Project\\Sw project\\Sw project\\Watch_list.cs [Design]",
+              "RelativeToolTip": "Sw project\\Watch_list.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:30:51.122Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
