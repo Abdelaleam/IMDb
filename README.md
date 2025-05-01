@@ -23,8 +23,8 @@ This project is a C# Windows Forms desktop application designed to function simi
 *   **User Management:** Manage user accounts, including banning/unbanning users based on policy violations (`ManageUsers.cs`, `Users` table - `ban` column).
 *   **Review Management:** Moderate and remove inappropriate or reported reviews (`ManageReviews.cs`, `Reviews` table - `is_bad` column, `v_count` column).
 *   **Reporting:**
-    *   Generate reports based on movie ratings (`RateReportDetails.cs`, `CrystalReport1.rpt`).
-    *   Generate Crystal Reports for Movies analysis (`Report_Review.cs`, `CrystalReport2.rpt`).
+    *   Generate Crystal Reports based on movie ratings (`RateReportDetails.cs`, `CrystalReport2.rpt`).
+    *   Generate Crystal Reports for Movies analysis (`CR_Report.cs`, `CrystalReport1.rpt`).
 
 ## Technology Stack
 
