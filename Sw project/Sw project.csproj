@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -36,11 +36,13 @@
     <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="Oracle.DataAccess">
       <HintPath>..\..\..\..\..\..\..\app\EHAB\product\11.2.0\dbhome_1\ODP.NET\bin\2.x\Oracle.DataAccess.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -64,6 +66,24 @@
     </Compile>
     <Compile Include="Browse by Genre.Designer.cs">
       <DependentUpon>Browse by Genre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CR_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CR_Report.Designer.cs">
+      <DependentUpon>CR_Report.cs</DependentUpon>
     </Compile>
     <Compile Include="ManageReviews.cs">
       <SubType>Form</SubType>
@@ -102,6 +122,12 @@
     </Compile>
     <Compile Include="Rate.Designer.cs">
       <DependentUpon>Rate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RateReportDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RateReportDetails.Designer.cs">
+      <DependentUpon>RateReportDetails.cs</DependentUpon>
     </Compile>
     <Compile Include="Report_Review.cs">
       <SubType>Form</SubType>
@@ -154,6 +180,17 @@
     <EmbeddedResource Include="Browse by Genre.resx">
       <DependentUpon>Browse by Genre.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CR_Report.resx">
+      <DependentUpon>CR_Report.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ManageReviews.resx">
       <DependentUpon>ManageReviews.cs</DependentUpon>
     </EmbeddedResource>
@@ -171,6 +208,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Rate.resx">
       <DependentUpon>Rate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RateReportDetails.resx">
+      <DependentUpon>RateReportDetails.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report_Review.resx">
       <DependentUpon>Report_Review.cs</DependentUpon>
@@ -218,6 +258,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\imdb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -51,5 +51,29 @@ namespace Sw_project
             m.FormClosed += M_FormClosed;
             m.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            RateReportDetails rt1 = new RateReportDetails();
+            this.Hide();
+            rt1.FormClosed += RT_FormClosed;
+            rt1.Show();
+        }
+        private void RT_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            CR_Report CR1 = new CR_Report();
+            this.Hide();
+            CR1.FormClosed += RM_FormClosed;
+            CR1.Show();
+        }
+        private void RM_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
+        }
     }
 }
