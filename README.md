@@ -24,7 +24,7 @@ This project is a C# Windows Forms desktop application designed to function simi
 *   **Review Management:** Moderate and remove inappropriate or reported reviews (`ManageReviews.cs`, `Reviews` table - `is_bad` column, `v_count` column).
 *   **Reporting:**
     *   Generate reports based on movie ratings (`RateReportDetails.cs`, `CrystalReport1.rpt`).
-    *   Generate Crystal Reports for review analysis (`Report_Review.cs`, `CrystalReport2.rpt`).
+    *   Generate Crystal Reports for Movies analysis (`Report_Review.cs`, `CrystalReport2.rpt`).
 
 ## Technology Stack
 
