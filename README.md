@@ -80,7 +80,7 @@ The application interacts heavily with the Oracle database via `Oracle.DataAcces
     *   Oracle Database instance accessible.
     *   Oracle Client tools (including `Oracle.DataAccess.dll`) installed and configured.
     *   SAP Crystal Reports runtime/SDK for Visual Studio.
-2.  **Database Setup:** Execute the SQL scripts found in the provided [SQL.pdf](https://github.com/Abdelaleam/IMDb/blob/main/Docs/SQL.pdf)
+2.  **Database Setup:** Execute the SQL scripts found in the provided [SQL.pdf](https://github.com/Abdelaleam/IMDb/blob/main/Docs/Sql.pdf)
  (or equivalent .sql file) to create the necessary tables (`Users`, `Movies`, `Actors`, `Movie_Actors`, `Reviews`, `Ratings`, `Watchlist`), sequences, triggers, and stored procedures. Configure the database connection string within the application (likely in `ordbCon.cs` or an `App.config` file).
 3.  **Running:** Open the `Sw project.sln` file in Visual Studio and build the solution. Run the project (usually by pressing F5). The main application window (`MAIN.cs`) should appear.
 
